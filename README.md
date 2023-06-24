@@ -26,14 +26,4 @@ Bachelor of Business Administration - Federal University of Viçosa
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
 
-  <img align="center" alt="js" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
- <img align="center" alt="js" src="https://img.shields.io/badge/apachekafka-00000F?style=for-the-badge&logo=apachekafka&logoColor=white" />
- <img align="center" alt="js" src="https://img.shields.io/badge/airbyte-00000F?style=for-the-badge&logo=airbyte&logoColor=white" /> 
- <img align="center" alt="js" src="https://img.shields.io/badge/linux-00000F?style=for-the-badge&logo=linux&logoColor=white" /> 
- <div style="display: inline_block"><br/>
-<div style="display: inline_block">
-<img align="center" alt="js" src="https://img.shields.io/badge/Airflow-00000F?style=for-the-badge&logo=Airflow&logoColor=white" />  
+  <img align="center" alt="js" src="https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=Python&logoColor=white" />
