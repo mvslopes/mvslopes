@@ -2,10 +2,9 @@
 ### Welcome!
 ### I'm Marcus lopes
 
-A professional with an interest in technology to solve business problems." Customer focus "
-
-From the logistics area: "The right material, in the right place, at the right time."\
-For the Data Engineering area: "The right data, in the right place, at the right time."
+A Business Professional, "Administration and Logistics" with a passion for technology to solve business problems." Focus on the customer"
+From the logistics area: "The right material, in the right place, at the right time."
+For the Data Engineering area: “The right data, in the right place, at the right time.
 
 ### Academic Education in Technology
 
