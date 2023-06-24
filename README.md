@@ -10,3 +10,6 @@ Professional training in Data Engineering -\
 Focus: [ Design and Implementation of Data Warehouses ] [ Data Lake – Design, Project and Integration ] \
 [ Data Security and High Availability ] [ Machine Learning and AI in Distributed Environments ] \
 [ Analytics, Visualization, Reporting and Decision Making with Big Data ]
+
+Professional Training in Python /Back-end Developer - \
+Consultant Training - SAP S/4HANA® Extended Warehouse Management-EWM -\
