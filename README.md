@@ -30,4 +30,6 @@ Bachelor of Business Administration - Federal University of Viçosa
   <img align="center" alt="js" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="center" alt="js" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fasana.com%2Fpt%2Fapps%2Fairbyte&psig=AOvVaw1ZRPShnXKVCtUp2-DZ3Qf_&ust=1687673412912000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLD3-MOf2_8CFQAAAAAdAAAAABAE" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  
