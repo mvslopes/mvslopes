@@ -43,4 +43,5 @@ Consultant Training - SAP S/4HANA® Extended Warehouse Management - EWM -ASSUMTE
   <img align="center" alt="js" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" />
-  
+  <img align="center" alt="js" src="https://img.shields.io/badge/Amazon S3-D40000?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/Amazon Lake Formation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
