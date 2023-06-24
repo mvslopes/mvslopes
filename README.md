@@ -19,7 +19,7 @@ Consultant Training - SAP S/4HANA® Extended Warehouse Management-EWM -ASSUMTEK 
 
 
 ### Academic Education in Business
-Specialization in Logistics - 
+Specialization in Logistics - \
 Bachelor of Business Administration - 
 
 ### Technologies studied and applied in laboratories and projects.
