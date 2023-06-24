@@ -39,6 +39,7 @@ Bachelor of Business Administration - Federal University of Viçosa
 
   <img align="center" alt="js" src="https://img.shields.io/badge/apache hadoop-FDEE21?style=for-the-badge&logo=apache hadoop&logoColor=black" />
   <img align="center" alt="js" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-  
-  
-  
+  <img align="center" alt="js" src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=Postgresql&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/dremio-8BC0D0?style=for-the-badge&logo=dremio&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/kerberos-FCC624?style=for-the-badge&logo=kerberos&logoColor=black" />
