@@ -38,11 +38,18 @@ Consultant Training - SAP S/4HANA® Extended Warehouse Management - EWM -ASSUMTE
   <img align="center" alt="js" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img align="center" alt="js" src="https://img.shields.io/badge/kerberos authentication-FCC624?style=for-the-badge&logo=kerberos authentication&logoColor=black" />
   
-  <div style="display: inline_block"><br/>
+<div style="display: inline_block"><br/>
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Redshift-D40000?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Redshift-007AAC?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/AWS S3-D40000?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/AWS Lake Formation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  
+<div style="display: inline_block"><br/>
+<div style="display: inline_block">
+  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Cloud Formation-68A51C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/AWS EMR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
