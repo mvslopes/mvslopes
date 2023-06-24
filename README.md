@@ -13,3 +13,5 @@ Focus: [ Design and Implementation of Data Warehouses ] [ Data Lake – Design, 
 
 Professional Training in Python /Back-end Developer - Python Pro \
 Consultant Training - SAP S/4HANA® Extended Warehouse Management-EWM -ASSUMTEK Education and Consulting \
+
+### Academic Education in Business
