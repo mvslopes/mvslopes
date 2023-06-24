@@ -32,4 +32,4 @@ Bachelor of Business Administration - Federal University of Viçosa
   <img align="center" alt="js" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  
+ 
