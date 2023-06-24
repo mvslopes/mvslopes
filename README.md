@@ -22,4 +22,4 @@ Consultant Training - SAP S/4HANA® Extended Warehouse Management-EWM -ASSUMTEK 
 Specialization in Logistics - UNINTER International University Center \
 Bachelor of Business Administration - Federal University of Viçosa
 
-### Technologies studied and applied in laboratories and projects.
+### Technologies studied and applied in laboratories and projects of Data Engineering.
