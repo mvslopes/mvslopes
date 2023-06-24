@@ -49,7 +49,8 @@ Consultant Training - SAP S/4HANA® Extended Warehouse Management - EWM -ASSUMTE
   
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
-  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Glue-EA7100?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Athena-EA7100?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/AWS Cloud Formation-68A51C?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/AWS EMR-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/AWS EMR-EA7100?style=for-the-badge&logo=amazonaws&logoColor=white" />
+ <img align="center" alt="js" src="https://img.shields.io/badge/AWS Serverless-EA7100?style=for-the-badge&logo=amazonaws&logoColor=white" />
