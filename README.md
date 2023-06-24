@@ -14,7 +14,7 @@ Focus: [ Design and Implementation of Data Warehouses ] [ Data Lake – Design, 
 [ Data Security and High Availability ] [ Machine Learning and AI in Distributed Environments ] \
 [ Analytics, Visualization, Reporting and Decision Making with Big Data ] [ SQL ] [ Linux ]
 
-Professional Training in Python / back end Developer - Python Pro \
+Professional Training in Python / Back-end Developer - Python Pro \
 Consultant Training - SAP S/4HANA® Extended Warehouse Management - EWM -ASSUMTEK Education and Consulting 
 
 
