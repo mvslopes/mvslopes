@@ -45,12 +45,12 @@ Consultant Training - SAP S/4HANA® Extended Warehouse Management - EWM -ASSUMTE
   <img align="center" alt="js" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/AWS Redshift-007AAC?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/AWS S3-D40000?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Lake Formation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Lake Formation-EA7100?style=for-the-badge&logo=amazonaws&logoColor=white" />
   
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/AWS Glue-EA7100?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/AWS Athena-EA7100?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Cloud Formation-68A51C?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Cloud Formation-00A82D?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/AWS EMR-EA7100?style=for-the-badge&logo=amazonaws&logoColor=white" />
  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Serverless-EA7100?style=for-the-badge&logo=amazonaws&logoColor=white" />
