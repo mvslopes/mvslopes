@@ -16,12 +16,6 @@ Focus: [ Design and Implementation of Data Warehouses ] [ Data Lake – Design, 
 
 Professional Training in Python / Back-end Developer - Python Pro \
 Consultant Training - SAP S/4HANA® Extended Warehouse Management - EWM -ASSUMTEK Education and Consulting 
-
-
-### Academic Education in Business
-Specialization in Logistics - UNINTER International University Center \
-Bachelor of Business Administration - Federal University of Viçosa
-
 ### Technologies studied and applied in laboratories and projects of Data Engineering.
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
