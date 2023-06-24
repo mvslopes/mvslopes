@@ -42,4 +42,11 @@ Bachelor of Business Administration - Federal University of Viçosa
   <img align="center" alt="js" src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=Postgresql&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/dremio-8BC0D0?style=for-the-badge&logo=dremio&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/kerberos-FCC624?style=for-the-badge&logo=kerberos&logoColor=black" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/kerberos authentication-FCC624?style=for-the-badge&logo=kerberos authentication&logoColor=black" />
+  
+  <div style="display: inline_block"><br/>
+<div style="display: inline_block">
+  <img align="center" alt="js" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" />
+  
