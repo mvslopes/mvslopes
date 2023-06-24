@@ -8,6 +8,7 @@ From the logistics area: "The right material, in the right place, at the right t
 For the Data Engineering area: "The right data, in the right place, at the right time."
 
 ### Academic Education in Technology
+
 Professional training in Data Engineering - Data Science Academy \
 Focus: [ Design and Implementation of Data Warehouses ] [ Data Lake – Design, Project and Integration ] \
 [ Data Security and High Availability ] [ Machine Learning and AI in Distributed Environments ] \
@@ -16,6 +17,9 @@ Focus: [ Design and Implementation of Data Warehouses ] [ Data Lake – Design, 
 Professional Training in Python /Back-end Developer - Python Pro \
 Consultant Training - SAP S/4HANA® Extended Warehouse Management-EWM -ASSUMTEK Education and Consulting 
 
+
 ### Academic Education in Business
+Specialization in Logistics - 
+Bachelor of Business Administration - 
 
 ### Technologies studied and applied in laboratories and projects.
