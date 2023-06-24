@@ -29,5 +29,9 @@ Bachelor of Business Administration - Federal University of Viçosa
   <img align="center" alt="js" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=SQL&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=Airbyte&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=ApacheAirflow&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/Apache Airflow-017CEE?style=for-the-badge&logo=Apache Airflow&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/Apache Nifi-4298B8?style=for-the-badge&logo=Apache Nifi&logoColor=white" /> 
+  <img align="center" alt="js" src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=MQTT&logoColor=white" /> 
+  <img align="center" alt="js" src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white" /> 
+  
   
