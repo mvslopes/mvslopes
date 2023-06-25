@@ -56,8 +56,3 @@ Focus: [ Design and Implementation of Data Warehouses ]  [ Data Lake – Design,
  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Serverless-EA7100?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <hr size =7>
 
-### Contacts:
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mvslopes@gmail.com)
-
