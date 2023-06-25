@@ -6,7 +6,7 @@ A Business Professional with a passion for technology to solve business problems
 
 From the logistics area: "The right material, in the right place, at the right time." \
 For the Data Engineering area: “The right data, in the right place, at the right time.
-
+<hr size = 7>
 ### Academic Education in Technology
 
 * Professional Training in Data Engineering - Data Science Academy\
