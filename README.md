@@ -57,5 +57,6 @@ Focus: [ Design and Implementation of Data Warehouses ]  [ Data Lake – Design,
 <hr size =7>
   
 ### Contacts:
-<div style="display: inline_block">
-  <img align="center" alt="js" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mvslopes@gmail.com)
+
