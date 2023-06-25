@@ -17,7 +17,7 @@ Focus: [ Design and Implementation of Data Warehouses ]  [ Data Lake – Design,
 * Consultant Training - SAP S/4HANA® Extended Warehouse Management - EWM -ASSUMTEK Education and Consulting
 <hr size = 7>
   
-### Technologies studied and applied in laboratories and projects of Data Engineering
+### Concepts and technologies that I have studied and continue to study during my Professional Training in Data Engineering, including laboratory work and projects"
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
