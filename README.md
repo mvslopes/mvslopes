@@ -9,7 +9,7 @@ For the Data Engineering area: “The right data, in the right place, at the rig
 
 ### Academic Education in Technology
 
-* Professional Training in Data Engineering - Data Science Academy\
+* **Professional Training in Data Engineering - Data Science Academy**\
 Focus: [ Design and Implementation of Data Warehouses ] [ Data Lake – Design, Project and Integration ] \
 [ Data Security and High Availability ] [ Machine Learning and AI in Distributed Environments ] \
 [ Analytics, Visualization, Reporting and Decision Making with Big Data ] [ Python ] [ SQL ] [ Linux ]
