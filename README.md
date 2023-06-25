@@ -6,14 +6,14 @@ A Business Professional with a passion for technology to solve business problems
 
 From the logistics area: "The right material, in the right place, at the right time." \
 For the Data Engineering area: “The right data, in the right place, at the right time.
-<hr size = 7>
+<hr size =7>
 
 ### Academic Education in Technology
 
 * Professional Training in Data Engineering - Data Science Academy\
-Focus: [ Design and Implementation of Data Warehouses ] [ Data Lake – Design, Project and Integration ] \
-[ Data Security and High Availability ] [ Machine Learning and AI in Distributed Environments ] \
-[ Analytics, Visualization, Reporting and Decision Making with Big Data ] [ Python ] [ SQL ] [ Linux ]
+Focus: [ Design and Implementation of Data Warehouses ]  [ Data Lake – Design, Project and Integration ]\
+[ Data Security and High Availability ]  [ Machine Learning and AI in Distributed Environments ]\
+[ Analytics, Visualization, Reporting and Decision Making with Big Data ]  [ Python ] [ SQL ] [ Linux ]
 
 * Professional Training in Python / Back-end Developer - Python Pro
 * Consultant Training - SAP S/4HANA® Extended Warehouse Management - EWM -ASSUMTEK Education and Consulting
@@ -56,3 +56,4 @@ Focus: [ Design and Implementation of Data Warehouses ] [ Data Lake – Design, 
   <img align="center" alt="js" src="https://img.shields.io/badge/AWS Cloud Formation-00A82D?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/AWS EMR-EA7100?style=for-the-badge&logo=amazonaws&logoColor=white" />
  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Serverless-EA7100?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<hr size =7>
