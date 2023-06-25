@@ -1,6 +1,7 @@
 ### Welcome!
 ### I'm Marcus lopes
-A business professional passionate about technology, with the purpose of solving business problems." Focus on the customer"
+
+A business professional, passionate about data and technologies, who aims to utilize these concepts and tools to solve business problems. **Focus on the customer**
 
 From the logistics area: **"The right material, in the right place, at the right time."** \
 For the Data Engineering area: **“The right data, in the right place, at the right time.**
