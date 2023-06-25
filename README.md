@@ -1,6 +1,4 @@
-### About me !
-
-Welcome!
+### Welcome!
 ### I'm Marcus lopes
 A business professional passionate about technology, with the purpose of solving business problems." Focus on the customer"
 
