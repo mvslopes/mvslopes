@@ -10,7 +10,7 @@ For the Data Engineering area: **“The right data, in the right place, at the r
 ### Academic Education in Technology
 
 * Professional Training in Data Engineering - Data Science Academy\
-Out 2021 - Dez 2023\
+Oct 2021 - Dec 2023 - 1 year and 9 months\
 Focus: [ Design and Implementation of Data Warehouses ]  [ Data Lake – Design, Project and Integration ]\
 [ Data Security and High Availability ]  [ Machine Learning and AI in Distributed Environments ]\
 [ Analytics, Visualization, Reporting and Decision Making with Big Data ]  [ Python ] [ SQL ] [ Linux ]
