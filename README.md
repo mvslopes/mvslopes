@@ -23,7 +23,8 @@ Principal focus of Professional Training:\
 Hands-on methodology: laboratories and practical projects: 37 
 
 <hr size =7>
-### Academic Education in Busniess ###
+
+### Academic Education in Busniess
   
   
 * Professional Training in Python / Back-end Developer - Python Pro
