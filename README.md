@@ -23,7 +23,7 @@ Principal focus of Professional Training:\
 03- *Data Security and High Availability*;\
 04- *Machine Learning and AI in Distributed Environments*;\
 05- *Analytics, Visualization, Reporting and Decision Making with Big Data*.\
-Hands-on methodology: laboratories and practical projects: 37 \
+***Hands-on methodology: laboratories and practical projects: 37***
 
 Extra training modules - 152h/a\
 Programming logic, Python Fundamentals for Data Analysis,SQL for Data Science Big Data Fundamentals,  Fundamentals of Data Engineering, Linux Operating System, Docker and Kubernetes,  Data Governance,  Soft Skills-Developing Your Behavioral Skills,  Advanced Excel with VBA, Python and SQL.
