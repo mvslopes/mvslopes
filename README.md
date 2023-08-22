@@ -43,9 +43,12 @@ Extra training modules - 152h/a\
 <hr size =7>
 
 ### Academic Education in Busniess
-  
-  
-* Professional Training in Python / Back-end Developer - Python Pro
+
+Federal University of Viçosa - Brazil \
+Bachelor of Business Administration
+
+Professional Azure Data Engineer Training- 40 h/a
+July 2023 - studying
 * Consultant Training - SAP S/4HANA® Extended Warehouse Management - EWM -ASSUMTEK Education and Consulting
 <hr size = 7>
   
