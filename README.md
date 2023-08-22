@@ -22,8 +22,8 @@ Principal focus of Professional Training:\
 05- *Analytics, Visualization, Reporting and Decision Making with Big Data*.\
 Hands-on methodology: laboratories and practical projects: 37 
 
-
-
+<hr size =7>
+### Academic Education in Busniess
   
   
 * Professional Training in Python / Back-end Developer - Python Pro
