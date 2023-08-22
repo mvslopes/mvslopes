@@ -13,6 +13,12 @@ For the Data Engineering area: **“The right data, in the right place, at the r
 Professional Azure Data Engineer Training\
 July 2023 - studying
 
+Principal focus of Professional Training:
+01- *Event Hub and Stream Synapse Analytics*;\
+02- *Data Factory, Data Lake and Azure Synapse Analytics*;\
+03- *Data Bricks and Azure Sql*
+*Hands-on methodology: laboratories and practical projects: 03*
+
 **Data Science Academy** - 470 h/a \
 Professional Training in Data Engineering - 318 h/a\
 Oct 2021 - Dec 2023 - 1 year and 9 months 
@@ -33,10 +39,6 @@ Extra training modules - 152h/a\
 *Fundamentals of Data Engineering*;\
 *Linux Operating System, Docker and Kubernetes*;\
 *Data Governance*;
-
-
-
-
 
 <hr size =7>
 
