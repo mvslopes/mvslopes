@@ -10,7 +10,7 @@ For the Data Engineering area: **“The right data, in the right place, at the r
 ### Academic Education in Technology
 
 **IT Valley School**\
-Professional Azure Data Engineer Training\
+Professional Azure Data Engineer Training- 40 h/a \
 July 2023 - studying
 
 Principal focus of Professional Training:\
