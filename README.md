@@ -12,7 +12,7 @@ For the Data Engineering area: **“The right data, in the right place, at the r
 * Professional Azure Data Engineer Training - IT Valley School\
 July 2023 - studying
 
-* Professional Training in Data Engineering 318 h/a - Data Science Academy\
+* Professional Training in Data Engineering - 318 h/a - Data Science Academy\
 Oct 2021 - Dec 2023 - 1 year and 9 months\
 professional training focus:\
 **01- Design and Implementation of Data Warehouses**;\
