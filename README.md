@@ -14,8 +14,8 @@ July 2023 - studying
 
 * Professional Training in Data Engineering - 318 h/a - Data Science Academy\
 Oct 2021 - Dec 2023 - 1 year and 9 months\
-Principal focus of Professional Training : 01- Design and Implementation of Data Warehouses, 02- Data Lake-Design, Project and Integration;
-03- Data Security and High Availability, 04- Machine Learning and AI in Distributed Environments, 05- Analytics, Visualization, Reporting and Decision Making with Big Data.\
+Principal focus of Professional Training : 01- Design and Implementation of Data Warehouses,  02- Data Lake-Design, Project and Integration;
+03- Data Security and High Availability,  04- Machine Learning and AI in Distributed Environments,  05- Analytics, Visualization, Reporting and Decision Making with Big Data.\
 hands-on methodology: laboratories and practical projects\
 Number of laboratories: 16 and Number of projects: 21
 
