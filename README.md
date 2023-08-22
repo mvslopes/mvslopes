@@ -28,9 +28,12 @@ Principal focus of Professional Training:\
 Extra training modules - 152h/a\
 *Programming logic*;\
 *Python Fundamentals for Data Analysis*;\
-*SQL for Data Science*, *Big Data Fundamentals*;\
-Fundamentals of Data Engineering;\
-Linux Operating System, Docker and Kubernetes,  Data Governance,  Soft Skills-Developing Your Behavioral Skills,  Advanced Excel with VBA, Python and SQL.
+*SQL for Data Science*;\
+*Big Data Fundamentals*;\
+*Fundamentals of Data Engineering*;\
+*Linux Operating System, Docker and Kubernetes*;\
+*Data Governance*;
+
 
 
 
