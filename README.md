@@ -9,7 +9,7 @@ For the Data Engineering area: **“The right data, in the right place, at the r
 
 ### Academic Education in Technology
 
-**IT Valley School**\
+**IT Valley School** - Brazil\
 Professional Azure Data Engineer Training- 40 h/a \
 July 2023 - studying
 
@@ -19,7 +19,7 @@ Principal focus of Professional Training:\
 03- *Data Bricks and Azure Sql*
 *Hands-on methodology: laboratories and practical projects: 03*
 
-**Data Science Academy** - 470 h/a \
+**Data Science Academy** - Brazil \
 Professional Training in Data Engineering - 318 h/a\
 Oct 2021 - Dec 2023 - 1 year and 9 months 
 
