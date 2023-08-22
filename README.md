@@ -24,8 +24,8 @@ Professional Training in Data Engineering - 318 h/a\
 Oct 2021 - Dec 2023 - 1 year and 9 months 
 
 Principal focus of Professional Training:\
-01- *Design and Implementation of Data Warehouses*;\
-02- *Data Lake-Design, Project and Integration*;\
+01- *Design and Implementation of Data Warehouses On premise and in the Cloud*;\
+02- *Data Lake - Design, Project and Integration On premise and in the Cloud*;\
 03- *Data Security and High Availability*;\
 04- *Machine Learning and AI in Distributed Environments*;\
 05- *Analytics, Visualization, Reporting and Decision Making with Big Data*.\
