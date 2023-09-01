@@ -12,33 +12,13 @@ For the Data Engineering area: **“The right data, in the right place, at the r
 **IT Valley School - Brazil**\
 Professional Azure Data Engineer Training- 40 h/a \
 July 2023 - studying
-
-Principal focus of Professional Training:\
-01- *Event Hub and Stream Synapse Analytics*;\
-02- *Data Factory, Data Lake and Azure Synapse Analytics*;\
-03- *Data Bricks and Azure Sql*
 *Hands-on methodology: laboratories and practical projects: 03*
 
 **Data Science Academy - Brazil**\
 Professional Training in Data Engineering - 318 h/a\
 Oct 2021 - Dec 2023 - 1 year and 9 months 
 
-Principal focus of Professional Training:\
-01- *Design and Implementation of Data Warehouses On premise and in the Cloud*;\
-02- *Data Lake - Design, Project and Integration On premise and in the Cloud*;\
-03- *Data Security and High Availability*;\
-04- *Machine Learning and AI in Distributed Environments*;\
-05- *Analytics, Visualization, Reporting and Decision Making with Big Data*.\
 *Hands-on methodology: laboratories and practical projects: 37*
-
-Extra training modules - 152h/a\
-*Programming logic*;\
-*Python Fundamentals for Data Analysis*;\
-*SQL for Data Science*;\
-*Big Data Fundamentals*;\
-*Fundamentals of Data Engineering*;\
-*Linux Operating System, Docker and Kubernetes*;\
-*Data Governance*;
 
 <hr size =7>
 
