@@ -11,7 +11,7 @@ For the Data Engineering area: **“The right data, in the right place, at the r
 
 **IT Valley School - Brazil**\
 Professional Azure Data Engineer Training- 40 h/a \
-July 2023 - studying
+July 2023 - studying\
 *Hands-on methodology: laboratories and practical projects: 03*
 
 **Data Science Academy - Brazil**\
