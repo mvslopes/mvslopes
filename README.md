@@ -41,8 +41,7 @@ Specialization in Supply Chain Management and Logistics
   <img align="center" alt="js" src="https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=Airbyte&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/Apache Airflow-017CEE?style=for-the-badge&logo=Apache Airflow&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/Apache Nifi-4298B8?style=for-the-badge&logo=Apache Nifi&logoColor=white" /> 
-  <img align="center" alt="js" src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=MQTT&logoColor=white" /> 
-  <img align="center" alt="js" src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white" /> 
+  
   
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
@@ -50,25 +49,12 @@ Specialization in Supply Chain Management and Logistics
   <img align="center" alt="js" src="https://img.shields.io/badge/apache hadoop-FDEE21?style=for-the-badge&logo=apache hadoop&logoColor=black" />
   <img align="center" alt="js" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=Postgresql&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/dremio-8BC0D0?style=for-the-badge&logo=dremio&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/kerberos authentication-FCC624?style=for-the-badge&logo=kerberos authentication&logoColor=black" />
   
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Redshift-007AAC?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/AWS S3-D40000?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Lake Formation-EA7100?style=for-the-badge&logo=amazonaws&logoColor=white" />
   
-<div style="display: inline_block"><br/>
-<div style="display: inline_block">
-  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Glue-EA7100?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Athena-EA7100?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/AWS Cloud Formation-00A82D?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/AWS EMR-EA7100?style=for-the-badge&logo=amazonaws&logoColor=white" />
- <img align="center" alt="js" src="https://img.shields.io/badge/AWS Serverless-EA7100?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <hr size =7>
 
