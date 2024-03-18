@@ -9,13 +9,13 @@ For the Data Engineering area: **“The right data, in the right place, at the r
 
 ### Academic Education in Technology
 
-**IT Valley School - Brazil**\
-Professional Azure Data Engineer Training- 40 h/a \
+**Data Science Academy - Brazil - Brazil**\
+Professional Data Scientist 4.0  Training- 560 h \
 July 2023 - studying\
 *Hands-on methodology: laboratories and practical projects: 03*
 
 **Data Science Academy - Brazil**\
-Professional Training in Data Engineering - 318 h/a\
+Professional Training in Data Engineering - 318 h \
 Oct 2021 - Dec 2023 - 1 year and 9 months 
 
 *Hands-on methodology: laboratories and practical projects: 37*
