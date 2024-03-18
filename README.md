@@ -9,7 +9,7 @@ For the Data Engineering area: **“The right data, in the right place, at the r
 
 ### Academic Education in Technology
 
-**Data Science Academy - Brazil - Brazil**\
+**Data Science Academy - Brazil**\
 Professional Data Scientist 4.0  Training- 560 h \
 Nov 2023 - Nov 2024\
 *Hands-on methodology: laboratories and practical projects*
