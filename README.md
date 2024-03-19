@@ -4,28 +4,29 @@ Como profissional, possuo um amplo conhecimento na área de negócios, especialm
 
 <hr size =7>
 
-### Academic Education in Technology
+### Educação Acadêmica em Ciência de Dados
 
-**Data Science Academy - Brazil**\
-Professional Data Scientist 4.0  Training- 560 h \
+**Data Science Academy - Brasil**\
+Capacitação Profissional de Cientista de Dados 4.0 - 560 h \
+Cursando\
 Nov 2023 - Nov 2024\
-*Hands-on methodology: laboratories and practical projects*
+*Metodologia prática: laboratórios e projetos*
 
-**Data Science Academy - Brazil**\
-Professional Training in Data Engineering - 318 h \
-Oct 2021 - Dec 2023 - 1 year and 9 months 
+**Data Science Academy - Brasil**\
+Capacitação Profissional Engenharia de Dados - 318 h \
+Out 2021 - Dez 2023 - 1 ano and 9 meses 
 
-*Hands-on methodology: laboratories and practical projects: 37*
+*Metodologia prática: laboratórios e projetos, total de projetos e laboratorios 31**
 
 <hr size =7>
 
-### Academic Education in Busniess
+### Educação Acadêmica em Negócio
 
-**Federal University of Viçosa - Brazil** \
-Bachelor of Business Administration
+**Universidade Federal de Viçosa - Brasil** \
+Bacharel em Administração de Empresas
 
-**UNINTER International University Center - Brazil**\
-Specialization in Supply Chain Management and Logistics
+**UNINTER- Centro Universitário Internacional - Brasil**\
+Especialização em Administração e Logística
 
 <hr size = 7>
   
