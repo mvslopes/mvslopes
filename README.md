@@ -1,10 +1,7 @@
-### Welcome!
-### I'm Marcus lopes
+### Olá Sou Marcus lopes
 
-A business professional, passionate about data and technologies, who aims to utilize these concepts and tools to solve business problems. **Focus on the customer**
+Como profissional, possuo um amplo conhecimento na área de negócios, especialmente logística e melhoria de processos. Sou apaixonado por Ciência de Dados e tecnologia. Meu objetivo é utilizar esses conceitos e ferramentas para resolver problemas de negócios, melhorar processos e atender às necessidades dos clientes.
 
-From the logistics area: **"The right material, in the right place, at the right time."** \
-For the Data Engineering area: **“The right data, in the right place, at the right time.**
 <hr size =7>
 
 ### Academic Education in Technology
