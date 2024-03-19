@@ -16,7 +16,7 @@ Nov 2023 - Nov 2024\
 Capacitação Profissional Engenharia de Dados - 318 h \
 Out 2021 - Dez 2023 - 1 ano and 9 meses 
 
-*Metodologia prática: laboratórios e projetos, total de projetos e laboratorios 31**
+*Metodologia prática: total de projetos e laboratorios 31**
 
 <hr size =7>
 
