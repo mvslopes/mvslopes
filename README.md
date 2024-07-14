@@ -30,7 +30,7 @@ Especialização em Administração e Logística
 
 <hr size = 7>
   
-### Concepts and technologies that I have studied and continue to study during my Professional Training in Data Engineering, including laboratory work and projects
+### Conceitos e tecnologias que estudei e continuo estudando.
 
 <div style="display: inline_block"><br/>
 <div style="display: inline_block">
