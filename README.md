@@ -1,6 +1,6 @@
 ### Olá Sou Marcus lopes
 
-Como profissional, possuo um amplo conhecimento na área de negócios, especialmente logística e melhoria de processos. Sou apaixonado por Ciência de Dados e tecnologia. Meu objetivo é utilizar esses conceitos e ferramentas para resolver problemas de negócios, melhorar processos e atender às necessidades dos clientes.
+Como profissional com vasta experiência em logística e melhoria de processos, sou apaixonado por Ciência de Dados e tecnologia. Meu objetivo é aplicar esses conhecimentos para resolver problemas de negócios, otimizar processos e atender às necessidades dos clientes,
 
 <hr size =7>
 
