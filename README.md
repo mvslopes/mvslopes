@@ -35,10 +35,12 @@ Especialização em Administração e Logística
 * **Matemática e Estatística:** *Matemática e Estatística para Ciência de Dados*
 * **Linguagens de Programação Python e suas bibliotecas:** *NumPy, Pandas, SciPy, StatsModels, Matplotlib, Seaborn e Plotly*
 * **Linguegam de Gerenciamento e Manipulação bancos de dados relacionais:** *SQL (Structured Query Language)*
+* **Sistemas de Gerenciamento de Banco de Dados:** *MySQL e PostgreSQL*
+* **Ferramentas de Visualização de Dados:** *Power BI, Tableau e Google Data Studio*
+  
 * **Ferramentas de Orquestração de Dados:** *Apache Airflow e Apache Nifi*
 * **Tecnologias de Big Data:** *Apache Hadoop*
-* **Sistemas de Gerenciamento de Banco de Dados:** *MySQL e PostgreSQL*
 * **Sistemas Operacionais:** *Linux e Kali Linux*
 * **Ferramentas de Contêinerização:** *Docker*
-* **Ferramentas de Visualização de Dados:** *Power BI, Tableau e Google Data Studio* 
+
 
