@@ -9,7 +9,7 @@ Como profissional com vasta experiência em logística e melhoria de processos, 
 **Data Science Academy - Brasil**\
 Capacitação Profissional de Cientista de Dados 4.0 - 560 h \
 Cursando\
-Nov 2023 - Nov 2024\
+Nov 2023 - Cursando\
 *Metodologia prática: laboratórios e projetos*
 
 **Data Science Academy - Brasil**\
