@@ -32,27 +32,33 @@ Especialização em Administração e Logística
   
 ### Conceitos e tecnologias que estudei e continuo estudando.
 
-<div style="display: inline_block"><br/>
-<div style="display: inline_block">
-  <img align="center" alt="js" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=SQL&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/Airbyte-615EFF?style=for-the-badge&logo=Airbyte&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/Apache Airflow-017CEE?style=for-the-badge&logo=Apache Airflow&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/Apache Nifi-4298B8?style=for-the-badge&logo=Apache Nifi&logoColor=white" /> 
-  
-  
-<div style="display: inline_block"><br/>
-<div style="display: inline_block">
+### Linguagens de Programação
+Python
+SQL
 
-  <img align="center" alt="js" src="https://img.shields.io/badge/apache hadoop-FDEE21?style=for-the-badge&logo=apache hadoop&logoColor=black" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=Postgresql&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  
-<div style="display: inline_block"><br/>
-<div style="display: inline_block">
-  <img align="center" alt="js" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
-  
+### Ferramentas de Orquestração de Dados
+Apache Airflow
+Apache Nifi
+
+### Tecnologias de Big Data
+Apache Hadoop
+
+### Sistemas de Gerenciamento de Banco de Dados
+MySQL
+PostgreSQL
+
+### Sistemas Operacionais
+Linux
+Kali Linux
+
+### Ferramentas de Contêinerização
+Docker
+
+### Ferramentas de Visualização de Dados
+Power BI
+Tableau
+
+### Matemática e Estatística
+Matemática e Estatística para Ciência de Dados
 <hr size =7>
 
