@@ -54,6 +54,5 @@ Especialização em Administração e Logística
   <img align="center" alt="js" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" 
 Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/Estatistica-2496ED?style=for-the-badge&logo=Docker&logoColor=white"
-
-  />
+  <img align="center" alt="js" src="https://img.shields.io/badge/Estatistica-2496ED?style=for-the-badge&logo=ES&logoColor=white"
+/>
