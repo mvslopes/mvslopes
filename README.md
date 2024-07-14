@@ -37,7 +37,6 @@ Especialização em Administração e Logística
 * **Linguegam de Gerenciamento e Manipulação bancos de dados relacionais:** *SQL (Structured Query Language)*
 * **Sistemas de Gerenciamento de Banco de Dados:** *MySQL e PostgreSQL*
 * **Ferramentas de Visualização de Dados:** *Power BI, Tableau e Google Data Studio*
-  
 * **Ferramentas de Orquestração de Dados:** *Apache Airflow e Apache Nifi*
 * **Tecnologias de Big Data:** *Apache Hadoop*
 * **Sistemas Operacionais:** *Linux e Kali Linux*
