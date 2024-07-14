@@ -32,8 +32,8 @@ Especialização em Administração e Logística
   
 ### Conceitos e tecnologias que estudei e continuo estudando.
 
-* Linguagens de Programação Python e suas Bibliotecas: NumPy, Pandas, SciPy, StatsModels, Matplotlib, Seaborn e Plotly.
-SQL
+* Linguagens de Programação Python e suas Bibliotecas: NumPy, Pandas, SciPy, StatsModels, Matplotlib, Seaborn e Plotly.\
+* SQL
 Ferramentas de Orquestração de Dados
 Apache Airflow
 Apache Nifi
