@@ -32,9 +32,7 @@ Especialização em Administração e Logística
   
 ### Conceitos e tecnologias que estudei e continuo estudando.
 
-### Linguagens de Programação
-Python
-SQL
+### Linguagens de Programação: Python e SQL
 
 ### Ferramentas de Orquestração de Dados
 Apache Airflow
