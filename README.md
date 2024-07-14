@@ -32,23 +32,12 @@ Especialização em Administração e Logística
   
 ### Conceitos e tecnologias que estudei e continuo estudando.
 
-* Linguagens de Programação Python e suas Bibliotecas: NumPy, Pandas, SciPy, StatsModels, Matplotlib, Seaborn e Plotly.\
-* SQL
-Ferramentas de Orquestração de Dados
-Apache Airflow
-Apache Nifi
-Tecnologias de Big Data
-Apache Hadoop
-Sistemas de Gerenciamento de Banco de Dados
-MySQL
-PostgreSQL
-Sistemas Operacionais
-Linux
-Kali Linux
-Ferramentas de Contêinerização
-Docker
-Ferramentas de Visualização de Dados
-Power BI
-Tableau
-Matemática e Estatística
-Matemática e Estatística para Ciência de D
+* **Linguagens de Programação Python e suas Bibliotecas:** NumPy, Pandas, SciPy, StatsModels, Matplotlib, Seaborn e Plotly.\
+* **Gerenciar e manipular bancos de dados relacionais:** SQL (Structured Query Language) é uma linguagem de programação\
+* **Ferramentas de Orquestração de Dados:** Apache Airflow e Apache Nifi\
+* **Tecnologias de Big Data:** Apache Hadoop\
+* **Sistemas de Gerenciamento de Banco de Dados:** MySQL e PostgreSQL\
+* **Sistemas Operacionais:** Linux e Kali Linux\
+* **Ferramentas de Contêinerização:** Docker\
+* **Ferramentas de Visualização de Dados:** Power BI e Tableau\
+* **Matemática e Estatística:** Matemática e Estatística para Ciência de Dados
